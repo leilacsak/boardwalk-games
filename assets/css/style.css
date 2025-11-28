@@ -105,15 +105,11 @@ h2 {
   background-color: var(--highlight-color);
   color: white;
   max-width: 300px;
-    margin: auto;
-    padding: 5px 10px;
-    font-size: 0.8rem;
+  margin: auto;
+  padding: 5px 10px;
+  font-size: 0.8rem;
   font-weight: bold;
   display: block;
-}
-
-    
-    
 }
 
 /*Footer / Contact*/
